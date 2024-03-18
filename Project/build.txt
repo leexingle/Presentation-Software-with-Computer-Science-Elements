@@ -1,0 +1,5 @@
+How to build the application using terminal commands:
+
+1.) Type cd JAR_File in the terminal
+2.) Then type java -jar scc210-2324-grp-57.jar 
+
